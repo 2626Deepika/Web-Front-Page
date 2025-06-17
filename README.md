@@ -1,8 +1,4 @@
-# Web-Front-Page
-
-A simple beginner-friendly web page created using HTML and CSS, showcasing centered layout and an introduction to web technologies.
-
-# Web Tech Intro Page
+# Web Tech Intro Page #Web Tech Front Page
 
 🚀 A beginner-friendly web page built using **HTML** and **CSS**, created as part of my learning journey into web development.
 
@@ -31,7 +27,7 @@ This project is aimed at practicing fundamental web development skills like stru
 - Flexbox for centering content
 
 ## 📣 Author
-[Your Name](https://www.linkedin.com/in/yourprofile/)  
+[deepika](www.linkedin.com/in/deepikaramalakshmi)  
 Feel free to connect with me on LinkedIn!
 
 ---
