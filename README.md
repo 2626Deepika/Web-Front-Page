@@ -11,15 +11,10 @@
 ## 💡 Purpose
 This project is aimed at practicing fundamental web development skills like structuring a page with HTML, styling with CSS, and positioning elements using Flexbox.
 
-## 🖼️ Preview
-![Web Tech Screenshot](screenshot.png) <!-- Replace with your actual image filename -->
-
 ## 📂 Files Included
 - `index.html` – The main structure of the webpage
 - `style.css` – Styling and layout
 
-## 🌐 Live Demo
-[Click here to view live](https://your-live-preview-link.com) <!-- optional if hosted -->
 
 ## 🔧 Technologies Used
 - HTML5
